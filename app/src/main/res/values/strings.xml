@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">হটলিঙ্ক</string>
+    <string name="notif_channel_name">স্ক্রিন শেয়ারিং</string>
+    <string name="notif_sharing_title">হটলিঙ্ক চালু আছে</string>
+    <string name="notif_sharing_text">আপনার স্ক্রিন শেয়ার হচ্ছে</string>
+</resources>
